@@ -1,0 +1,211 @@
+/* Reset CSS (DO NOT DELETE) */
+html,
+body,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Lucida Grande";
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Write your code below */
+
+.container {
+    width: 1170px;
+    margin: auto;
+}
+
+/* Jumbotron */
+header {
+    background-image: url("https://prog-8.com/images/html/advanced/top_en.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 180px 0 100px 0;
+    text-align: center;
+    color: white;
+}
+
+.title-header {
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    opacity: 0.7;
+}
+
+.desc-header__01 {
+    margin-bottom: 3px;
+    opacity: 0.7;
+}
+
+.desc-header__02 {
+    margin-bottom: 20px;
+    opacity: 0.7;
+}
+
+.btn {
+    border-radius: 4px;
+    padding: 12px 24px;
+    display: inline-block;
+    opacity: 0.8;
+    color: white;
+}
+
+.btn:hover {
+    opacity: 1;
+}
+
+.divider-btn {
+    margin: 10px 0;
+    opacity: 0.7;
+}
+
+.btn-email {
+    background-color: #239b76;
+}
+
+.btn-facebook {
+    background-color: #3b5998;
+    margin: 0 10px 20px 0;
+}
+
+.btn-twitter {
+    background-color: #55acee;
+    margin-bottom: 20px;
+}
+
+/* Navigation */
+.navbar {
+    position: fixed;
+    background-color: rgba(34, 49, 52, 0.9);
+    width: 100%;
+    height: 65px;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.logo-header {
+    width: 124px;
+    margin-top: 20px;
+    float: left;
+}
+
+.login-link {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.3);
+    float: right;
+    padding: 0 25px;
+    line-height: 65px;
+}
+
+.login-link:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Lessons */
+.lessons {
+    background-color: #f7f7f7;
+    height: 580px;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+
+.lesson-title {
+    font-weight: normal;
+    color: #5f5d60;
+    text-align: center;
+}
+
+.lessons-content {
+    float: left;
+    width: 25%;
+    margin-top: 30px;
+}
+
+.icon-wraper {
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.icon-name {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 200px;
+    color: white;
+}
+
+.desc-icon {
+    width: 80%;
+    margin: auto;
+    font-size: 15px;
+    color: #b3aeb5;
+    text-align: center;
+}
+
+/* Message */
+.message {
+    padding: 60px 0 80px 0;
+    border: 1px solid #eee;
+    text-align: center;
+}
+
+.message-title {
+    font-weight: normal;
+    color: #5f5d60;
+}
+
+.btn-message {
+    display: inline-block;
+    margin-top: 30px;
+    background-color: #5dca88;
+    padding: 15px 40px;
+    color: white;
+    box-shadow: 0px 5px 0px #1a7940;
+    opacity: 0.8;
+    border-radius: 4px;
+}
+
+.btn-message:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.btn-message:active {
+    box-shadow: 0px 0px 0px;
+    transform: translateY(5px);
+}
+
+/* Footer */
+.footer-logo {
+    margin-top: 30px;
+    width: 124px;
+}
+
+.desc-footer {
+    font-size: 12px;
+    color: #b3aeb5;
+}

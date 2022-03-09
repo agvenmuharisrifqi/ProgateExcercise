@@ -1,0 +1,65 @@
+/* For Tablets */
+@media all and (max-width: 1000px) {
+    .container {
+        max-width: 1000px;
+        padding: 0 15px;
+        margin: 0 auto;
+    }
+
+    .top-wrapper h1 {
+        font-size: 32px;
+    }
+
+    .lesson {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+
+    .heading>* {
+        font-size: 20px;
+    }
+}
+
+/* For Smartphones */
+@media all and (max-width: 670px) {
+    .container {
+        max-width: 670px;
+        padding: 0 15px;
+        margin: 0 auto;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .header-right {
+        display: none;
+    }
+
+    .top-wrapper>.container>h1 {
+        text-align: left;
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .top-wrapper>.container>p {
+        text-align: left;
+    }
+
+    .btn {
+        display: block;
+    }
+
+    .facebook {
+        margin-bottom: 10px;
+        margin-right: 0;
+    }
+
+    .lesson {
+        width: 100%;
+    }
+
+    footer {
+        text-align: center;
+    }
+}
