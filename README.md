@@ -21,6 +21,8 @@ This is my practice log on [Progate](https://progate.com), here is a list of fil
 
 ![Developing a web page from scratch — Progate](https://github.com/agvenmuharisrifqi/ProgateExcercise/blob/master/HTMLandCSS/Screenshot1.png)
 
+<img src="attachment:https://github.com/agvenmuharisrifqi/ProgateExcercise/blob/master/HTMLandCSS/Screenshot1.png" width="200" height="200">
+
 ------------------------------------------------------------------------------------
 
 > 09/03/2022, Agven Muharis Rifqi
