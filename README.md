@@ -17,7 +17,9 @@ This is my practice log on [Progate](https://progate.com), here is a list of fil
 		- [x] *stylesheet_3.css* 
 		- [x] *resposive_3.css*
 
-Thanks for visiting my repository, **Have A Nice Day** 😁 
+--- Thanks for visiting my repository, **Have A Nice Day** 😁 
+
+![Developing a web page from scratch — Progate](https://github.com/agvenmuharisrifqi/ProgateExcercise/blob/master/HTMLandCSS/Screenshot1.png)
 
 ------------------------------------------------------------------------------------
 
